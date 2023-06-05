@@ -22,7 +22,7 @@ function notasEstudiante(){
 
 }
 
-alert(" Reprobados son : " + contador1 + "  y  Aprobados son  " + contador2 + "  Notas Erradas: " + contador3);
+alert(" Reprobados son : " + contador1 + "  y  Aprobados son   " + contador2 + "  Notas Erradas: " + contador3);
 }
 
 notasEstudiante();
