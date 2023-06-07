@@ -1,7 +1,7 @@
 function calcMultiploTres(){
     let nuevoPrecio = 0 ;
     const miArreglo1=[];
-    for(let i = 0; i < 12; i++){
+    for(let i = 1; i < 50; i++){
     let numero = parseFloat(prompt("ingrese el numero"));
     miArreglo1[i] =numero;
     }
